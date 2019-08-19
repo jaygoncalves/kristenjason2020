@@ -2,6 +2,34 @@
 /*======================================
 //--//-->   STYLES GENERALES
 ======================================*/
+.timer {
+  color: #f5f5f5;
+  font-family: "Kristi", cursive;
+  font-size: 6.5rem;
+  text-align: center;
+}
+
+.small-txt {
+  font-size: 0.85rem;
+  color: #1e1e1e;
+  font-weight: 100;
+  text-align: center;
+}
+
+.large-txt {
+  font-size: 2.25rem;
+  font-family: "Noto Serif TC", serif;
+  color: #1e1e1e;
+  font-weight: 200;
+  text-align: center;
+}
+
+.timer-subtext {
+  text-align: center;
+  color: #f5f5f5;
+  font-weight: 200;
+}
+
 body {
   background-color: #f5f5f5;
   color: #4e4e4e;

@@ -22,6 +22,36 @@ $serif-font: 'Noto Serif TC', serif;
 /*======================================
 //--//-->   STYLES GENERALES
 ======================================*/
+.timer {
+  color: $color-secondary;
+  font-family: $cursive-font;
+  font-size: 6.5rem;
+  text-align: center;
+  // padding: 0 15px;
+  
+}
+
+.small-txt {
+  font-size: .85rem;
+  color: $color-text-secondary;
+  font-weight: 100;
+  text-align: center;
+}
+
+.large-txt {
+  font-size: 2.25rem;
+  font-family: $serif-font;
+  color: $color-text-secondary;
+  font-weight: 200;
+  text-align: center;
+}
+
+.timer-subtext {
+    text-align: center;
+    color: $color-secondary;
+    font-weight: 200;
+}
+
 body {
   background-color: $color-secondary;
   color: $color-text-primary;
