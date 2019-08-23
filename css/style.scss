@@ -650,11 +650,13 @@ a {
     margin-top: 10rem;
     color: #fff;
     // font-weight: 600;
-    font-size: 3rem;
+    font-size: 3.0rem;
     font-family: $cursive-font;
+    text-shadow: 2px 2px 4px #000000;
+    
 
     @media (min-width: 768px) {
-      font-size: 7.5rem;
+      font-size: 9rem;
     }
   }
 

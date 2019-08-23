@@ -580,10 +580,11 @@ a:hover {
   color: #fff;
   font-size: 3rem;
   font-family: "Kristi", cursive;
+  text-shadow: 2px 2px 4px #000000;
 }
 @media (min-width: 768px) {
   .intro .intro-title {
-    font-size: 7.5rem;
+    font-size: 9rem;
   }
 }
 .intro .intro-subtitle {
