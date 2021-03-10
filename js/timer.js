@@ -1,7 +1,7 @@
 //timer
 
 // set the date we're counting down to...
-const countDownDate = new Date('July 9, 2020 14:30:00').getTime();
+const countDownDate = new Date('July 1, 2021 16:00:00').getTime();
 console.log(countDownDate);
 
 // update the count down every 1 second
